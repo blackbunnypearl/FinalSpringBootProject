@@ -1,0 +1,12 @@
+spring:
+   datasource:
+      username: luv4beauty_store
+      password: luv4beauty_store
+      url: jdbc:mysql://localhost:3306/luv4beauty_store
+      
+   jpa:
+      hibernate:
+         ddl-auto: update
+      show-sql: true
+ 
+         
